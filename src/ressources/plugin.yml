@@ -1,0 +1,6 @@
+name: QuestAntiMob
+main: fr.earthquest.mobs.Main
+version: 1.0
+author: MikaM06
+description: Plugin pour désactiver les mobs sur le serveur.
+site: https://www.earthquest.fr
