@@ -1,0 +1,10 @@
+bin
+.idea
+.eclipse
+.settings
+.classpath
+.project
+out
+*.iml
+*.ipr
+lib
